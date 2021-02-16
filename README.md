@@ -1,2 +1,5 @@
 # AtharvaChavan.github.io
-Hello World!
+<p align="center">
+  <img src="me.png" height="200" width="200" />
+</p>
+
